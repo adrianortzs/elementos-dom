@@ -1,0 +1,19 @@
+main {
+    background-color: black;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#lista {
+    color: white;
+    padding-top: 10px;
+    list-style-type: none;
+}
+#agregar {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+h1 {
+    padding-top: 30px;
+    color: white;
+}
